@@ -29,7 +29,7 @@ This program should hopefully be a guide on how to implement a realtime software
 - Unity 2020.3.48f1+
 - Webcam
 
-### 5-Minute Setup
+### Quick Setup
 1. Clone repository
 2. Install Python dependencies: `pip install -r python-server/requirements.txt`
 3. Run server: `python python-server/emotion_detection_server.py`
